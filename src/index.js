@@ -330,8 +330,8 @@ export default class Gantt {
 
     make_grid_rows() {
         let counter_rows = 0;
-        const distinctRows = [...new Set(this.tasks.map(x => x.row_id))];
-        for (let row of distinctRows){
+        const distinctRows = [...new Set(this.tasks.map((x) => x.row_id))];
+        for (let row of distinctRows) {
             counter_rows = counter_rows + 1;
         }
 

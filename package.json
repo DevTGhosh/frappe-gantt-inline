@@ -1,7 +1,7 @@
 {
   "name": "@devtghosh/frappe-gantt-inline",
-  "version": "0.6.1",
-  "description": "A simple, modern, interactive gantt library for the web",
+  "version": "1.0.0",
+  "description": "Adding inline bars to frappe-gantt",
   "main": "src/index.js",
   "scripts": {
     "start": "yarn run dev",
