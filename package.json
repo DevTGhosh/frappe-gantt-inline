@@ -1,5 +1,5 @@
 {
-  "name": "@devtghosh/frappe-gantt-inline",
+  "name": "frappe-gantt-inline",
   "version": "1.0.0",
   "description": "Adding inline bars to frappe-gantt",
   "main": "src/index.js",
